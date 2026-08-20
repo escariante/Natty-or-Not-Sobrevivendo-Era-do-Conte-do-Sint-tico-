@@ -1,51 +1,21 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Natty or Not: Sobrevivendo à Era do Conteúdo Sintético 🎭
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um e-book curto (4 capítulos) que usa o próprio tema do desafio como conteúdo: um texto inteiramente gerado por IA que explica o cenário atual de IA generativa e desafia o leitor a perceber a diferença entre um texto "cru" e um texto cuidadosamente ajustado para soar humano.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[Claude](https://claude.ai)** (Anthropic), modelo Sonnet 5, para roteirização, estruturação e escrita de todo o texto;
+- Markdown para diagramação e publicação direto no GitHub.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei o Claude para gerar o e-book a partir de um único prompt descrevendo o desafio da DIO. Pedi que ele se baseasse em um mapa de tendências de IA generativa (Base10) para estruturar o capítulo sobre o ecossistema de ferramentas, e que incluísse um desafio interativo comparando diferentes níveis de esforço de prompt — a ideia central do "Natty or Not" aplicada ao próprio texto.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book ficou com 4 capítulos curtos, um desafio de "adivinhe o parágrafo" no meio e uma reflexão final sobre transparência no uso de IA generativa.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+[Leia o e-book completo aqui](./E-BOOK.md)
 
-### Exemplos e Insigths
+## 💭 Reflexão
+*(edite esta seção com sua própria opinião — a frase abaixo é só um ponto de partida)*
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+O mais estranho de criar algo "natty" com IA é perceber que a linha entre "gerado por máquina" e "escrito por humano" não está na ferramenta, está no cuidado de quem pede. Isso muda a forma como vou avaliar qualquer conteúdo daqui pra frente — inclusive o meu próprio.
