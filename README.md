@@ -16,6 +16,5 @@ O e-book ficou com 4 capítulos curtos, um desafio de "adivinhe o parágrafo" no
 [Leia o e-book completo aqui](./E-BOOK.md)
 
 ## 💭 Reflexão
-*(edite esta seção com sua própria opinião — a frase abaixo é só um ponto de partida)*
 
 O mais estranho de criar algo "natty" com IA é perceber que a linha entre "gerado por máquina" e "escrito por humano" não está na ferramenta, está no cuidado de quem pede. Isso muda a forma como vou avaliar qualquer conteúdo daqui pra frente — inclusive o meu próprio.
